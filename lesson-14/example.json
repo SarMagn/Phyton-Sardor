@@ -1,0 +1,42 @@
+
+
+{"id": 1, 
+"name": "John", 
+"age": 25,
+"pets": ["dog", "cat", "birs"],
+"phonenumber" : 
+{
+    "Phone" : "466-46-46",
+    "HomePhone" : "456-98-32"
+},
+
+"familymembers": 
+    [
+        {
+            "id": 100,
+            "name" : "Josh",
+            "relative" : "Father"
+        },
+        {
+            "id": 101,
+            "name" : "Sara",
+            "relative" : "Mother"
+        },
+        {
+            "id": 102,
+            "name" : "Tom",
+            "relative" : "Brother"
+        },
+        {
+            "id": 103,
+            "name" : "Anna",
+            "relative" : "Sister"
+        }
+
+
+
+
+
+    ]
+
+}
