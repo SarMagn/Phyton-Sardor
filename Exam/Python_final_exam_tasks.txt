@@ -1,0 +1,35 @@
+1. You have a list which contains country names. you need to sort this list according to the length of elements ascending order
+	ls = ['Uzbekistan','USA','UK','Germany','Chine']
+expected output: ['UK','USA,'Chine','Germany','Uzbekistan']
+
+
+
+
+
+
+
+2. Write a Python program to find the indexes of numbers in a following list below a given threshold.
+	ls = [0, 12, 45, 3, 4923, 322, 105, 29, 15, 39, 55]
+	threshold = 100
+	expected output: [0, 1, 2, 3, 7, 8, 9, 10]
+
+
+
+
+3. Write a recursive function to find the sum of the digits of a number.
+
+
+
+
+4. Given a list of dictionaries, write a function that combines them into a single dictionary. 
+	If a key appears in multiple dictionaries, sum the values.
+# Example usage
+print(combine_dictionaries([{'a': 1, 'b': 2}, {'a': 2, 'c': 3}, {'b': 3}]))
+# Output: {'a': 3, 'b': 5, 'c': 3}
+
+
+
+5. Using employee_data.csv file.
+	task 1. Create 4 separate csv files for 4 different countries
+	task 2. Find the Most Experienced Employee in Each Country
+	task 3. Find Employees Earning Above Their Country’s Average Salary

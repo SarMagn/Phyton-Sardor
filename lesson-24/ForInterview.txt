@@ -1,0 +1,5 @@
+Interview:
+business taraflama bo'ladi.
+Nimaga kerak ozi organgan narsalarimiz
+Company ga nima foyda bera olaman Python va SQL bilan
+shu savolarga javob kerak
